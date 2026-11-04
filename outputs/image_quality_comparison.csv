@@ -1,0 +1,5 @@
+Image,PSNR (dB),SSIM
+Gaussian Noisy,20.3448,0.2366
+Gaussian Restored,29.6131,0.6878
+Salt-Pepper Noisy,18.4472,0.2985
+Median Restored,32.7169,0.8753
